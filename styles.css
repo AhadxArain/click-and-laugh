@@ -1,0 +1,33 @@
+.joke-cont{
+    margin-left: 400px;
+}
+
+.joke-generator{
+    border: 1px solid yellow;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    bottom: 300px;
+    left: 540px;
+    background-color: yellow;
+    border-radius: 20px;
+}
+.text-1{
+    position: sticky;
+    bottom: 500px;
+    left: 145px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+}
+.result{
+    border: 1px solid yellow;
+    height: 50px;
+    background-color:white ;
+
+}
+.button{
+    padding-top: 30px;
+    padding-left: 125px;
+}
